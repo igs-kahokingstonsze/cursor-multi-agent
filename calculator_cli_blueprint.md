@@ -8,7 +8,7 @@
 
 ### Project Structure
 ```
-multi-agent/
+root/
 └── calc_cli/
     ├── presentation/
     │   ├── __init__.py
